@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AdCon</string>
+    <string name="settingsURL">http://tvcon.panelappscontrol.pl/api/get/settings/?tokenIph=</string>
+    <string name="harmonogramsURL">http://tvcon.panelappscontrol.pl/api/get/harmonogram/?tokenIph=</string>
+    <string name="mediasURL">http://tvcon.panelappscontrol.pl/api/get/media/?tokenIph=</string>
+    <string name="modulesURL">http://tvcon.panelappscontrol.pl/api/get/harmonogram/?tokenIph=</string>
+    <string name="date">00/00/0000</string>
+    <string name="time">00:00</string>
+    <string name="info" />
+    <string name="zdjecie">Zdjecie</string>
+</resources>
